@@ -1,3 +1,5 @@
+# Scott Schlangen Portfolio
+
 # Social Details 💬
 Email (sschlangen@gmail.com) <br>
 Phone/SMS (317-300-4763) <br>
