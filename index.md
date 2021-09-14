@@ -1,6 +1,3 @@
-# Scott Schlangen Portfolio
-This is a place to share my projects I am working on. 
-
 # Social Details 💬
 Email (sschlangen@gmail.com) <br>
 Phone/SMS (317-300-4763) <br>
