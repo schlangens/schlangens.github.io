@@ -23,3 +23,6 @@ Splunk Certified User
 I have done a few applications with Python, and feel very comfortable working with the program language
 - Check out my previous application I built here --> [Number Guessing Game](https://github.com/schlangens/TT_P1_NumberGuessingGame/blob/main/guessing_game.py)
 - Currently working on [Basketball Team Stat App](https://github.com/schlangens/basketball_stats_tool/blob/main/application.py)
+
+# Technologies & Skills
+Ansible, Docker, Kubernetes, Metasploit, Nmap, Splunk, Wireshark, Yara, Access Control, Cryptography, Cyber Forensics, Data Security, Disaster Recover Planning, Firewall Configuration, Malware Identification, Mobile device security, Network Security, Security Configuration, Security Policies, threat Analysis, Threat Detection, Ethernet, Firewall, IP addressing, IP Subnetting, IPv4/IPv6, JunOS, NTP, OTN, Routing Policy.
