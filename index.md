@@ -1,5 +1,6 @@
 # Scott Schlangen Portfolio
-Thank you for stopping by. If you have any questions or want to reach out dont hesitate to reach out. More to come.
+Thank you for stopping by. If you have any questions or want to reach out dont hesitate.<br />
+More to come.
 # Social Details 💬
 Email (sschlangen@gmail.com) <br>
 Phone/SMS (317-300-4763) <br>
