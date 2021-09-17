@@ -13,7 +13,7 @@ Phone/SMS (317-300-4763) <br>
 
 # Current Certifications
 [RangeForce - Cybersecurity CE](https://www.credly.com/badges/405b3725-ba43-4834-bbaf-4b400537f7f6)<br />
-[Security +](https://www.credly.com/badges/768fe1eb-163e-47e1-8617-44afb8ac493a)<br />
+[CompTIA Security+](https://www.credly.com/badges/768fe1eb-163e-47e1-8617-44afb8ac493a)<br />
 [Juniper JNCIA-Junos](https://www.credly.com/badges/7cbb0dc1-6805-4c89-8a9b-8ee9965baef8)<br />
 [MTA Networking Fundamentals](https://www.credly.com/badges/b026b536-d350-4254-9289-971249b0faf6)<br />
 Splunk Certified User
