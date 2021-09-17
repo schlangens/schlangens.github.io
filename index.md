@@ -1,10 +1,11 @@
 # Scott Schlangen Portfolio
-
+Thank you for stopping by. If you have any questions or want to reach out dont hesitate to reach out. More to come.
 # Social Details 💬
 Email (sschlangen@gmail.com) <br>
 Phone/SMS (317-300-4763) <br>
 # Social Links
-[LinkedIn](https://www.linkedin.com/in/scottschlangen/) ---- [GitHub](https://github.com/schlangens)
+[LinkedIn](https://www.linkedin.com/in/scottschlangen/)<br />
+[GitHub](https://github.com/schlangens)<br />
 
 # Projects
 I have done a few applications with Python, and feel very comfortable working with the program language
