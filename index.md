@@ -5,14 +5,13 @@ More to come.
 Email (sschlangen@gmail.com) <br>
 Phone/SMS (317-300-4763) <br>
 # Social Links
-[Resume/CV](https://docs.google.com/document/d/1Jtez5JwvgwR34iZv6E22lclzdU3ceMZOf1LnfV8rH1k/edit?usp=sharing)<br />
+[Resume/CV](https://docs.google.com/document/d/1n9hL-V26DQ2L4wsiFzQXH1mjbfFu-jO-E1OVd4cwRGk/edit?usp=sharing)<br />
 [Linkedin](https://www.linkedin.com/in/scottschlangen/)<br />
 [Github](https://github.com/schlangens)<br />
 [Self-written Knowledge Articles](https://schlangens.github.io/knowledge-base/)
 
 # What I am currently working on
-- Palo Alto Firewall PCNSA Certification
-- PfSense
+
 
 # Current Certifications
 [RangeForce - Cybersecurity CE](https://www.credly.com/badges/405b3725-ba43-4834-bbaf-4b400537f7f6)<br />
