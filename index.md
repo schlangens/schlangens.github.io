@@ -2,8 +2,8 @@
 Thank you for stopping by. If you have any questions or want to reach out dont hesitate.<br />
 More to come.
 # Social Details 💬
-Email (sschlangen@gmail.com) <br>
-Phone/SMS (260-750-7247) <br>
+Email - sschlangen@gmail.com <br>
+Phone/SMS - 260-750-7247 <br>
 # Social Links
 [Resume/CV](https://docs.google.com/document/d/1lrnFMCFxBu3k63TtrF4vy_vjUsj_M5wCiiLiUoMd7J8)<br />
 [Linkedin](https://www.linkedin.com/in/scottschlangen/)<br />
@@ -11,7 +11,7 @@ Phone/SMS (260-750-7247) <br>
 [Self-written Knowledge Articles](https://schlangens.github.io/knowledge-base/)
 
 # What I am currently working on
-NSE3 & CISSP
+NSE4 & CISSP
 
 # Current Certifications
 [RangeForce - Cybersecurity CE](https://www.credly.com/badges/405b3725-ba43-4834-bbaf-4b400537f7f6)<br />
