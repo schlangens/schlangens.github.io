@@ -5,7 +5,7 @@ More to come.
 Email (sschlangen@gmail.com) <br>
 Phone/SMS (260-750-7247) <br>
 # Social Links
-[Resume/CV](https://docs.google.com/document/d/1n9hL-V26DQ2L4wsiFzQXH1mjbfFu-jO-E1OVd4cwRGk/edit?usp=sharing)<br />
+[Resume/CV](https://docs.google.com/document/d/1lrnFMCFxBu3k63TtrF4vy_vjUsj_M5wCiiLiUoMd7J8/edit?usp=sharing)<br />
 [Linkedin](https://www.linkedin.com/in/scottschlangen/)<br />
 [Github](https://github.com/schlangens)<br />
 [Self-written Knowledge Articles](https://schlangens.github.io/knowledge-base/)
