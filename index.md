@@ -19,7 +19,7 @@ NSE4 & CISSP
 [Juniper JNCIA-Junos](https://www.credly.com/badges/7cbb0dc1-6805-4c89-8a9b-8ee9965baef8)<br />
 [MTA Networking Fundamentals](https://www.credly.com/badges/b026b536-d350-4254-9289-971249b0faf6)<br />
 [Microsoft Traning Transcripts](https://docs.microsoft.com/en-us/users/sschlangen/)
-Splunk Certified User
+
 
 
 # Past Coding Projects
