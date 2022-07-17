@@ -4,11 +4,11 @@ More to come.
 # Social Details 💬
 Email - sschlangen@gmail.com <br>
 Phone/SMS - 260-750-7247 <br>
-# Social Links
+# Links
 [Resume/CV](https://docs.google.com/document/d/1lrnFMCFxBu3k63TtrF4vy_vjUsj_M5wCiiLiUoMd7J8)<br />
 [Linkedin](https://www.linkedin.com/in/scottschlangen/)<br />
 [Github](https://github.com/schlangens)<br />
-[Self-written Knowledge Articles](https://schlangens.github.io/knowledge-base/)
+
 
 # What I am currently working on
 NSE4 & CISSP
@@ -18,6 +18,7 @@ NSE4 & CISSP
 [CompTIA Security+](https://www.credly.com/badges/768fe1eb-163e-47e1-8617-44afb8ac493a)<br />
 [Juniper JNCIA-Junos](https://www.credly.com/badges/7cbb0dc1-6805-4c89-8a9b-8ee9965baef8)<br />
 [MTA Networking Fundamentals](https://www.credly.com/badges/b026b536-d350-4254-9289-971249b0faf6)<br />
+[Microsoft Traning Transcripts](https://docs.microsoft.com/en-us/users/sschlangen/)
 Splunk Certified User
 
 
