@@ -11,7 +11,8 @@ Phone/SMS - 260-750-7247 <br>
 
 
 # What I am currently working on
-NSE4 & CISSP
+Azure Security Administrator & MS-500 Secuirty Administrator Associate. <br />
+[Check my progress out --> ](https://docs.microsoft.com/en-us/users/sschlangen/transcript)
 
 # Current Certifications
 [RangeForce - Cybersecurity CE](https://www.credly.com/badges/405b3725-ba43-4834-bbaf-4b400537f7f6)<br />
